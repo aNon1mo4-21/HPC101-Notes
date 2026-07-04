@@ -1,0 +1,26 @@
+# Obsidian local workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Trash
+.trash/
+
+# Build outputs
+*.o
+*.out
+*.exe
+*.log
+
+# Slurm outputs
+slurm-*.out
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large/private course PDFs, optional
+# assets/pdfs/*.pdf
